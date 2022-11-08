@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Roman Ponomarjov aka Mr. Fomkoe. A front end developer at the beginning of the path. 
